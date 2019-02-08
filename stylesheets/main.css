@@ -35,3 +35,11 @@ h1 {
   text-decoration: none;
 }
 
+#week3 a:visited {
+  color: black;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+
