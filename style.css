@@ -4,13 +4,13 @@ h1 {
   font: arial semibold;
 }
 
-nav a {
+.nav a {
   color: blue;
   text-align: center;
   font: arial light;
 }
 
-nav a:hover {
+.nav a:hover {
   color: red;
   text-align: center;
   font: arial light;
