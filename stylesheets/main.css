@@ -2,23 +2,27 @@ h1 {
   color: #ff6347;
   text-align: center;
   font-family: Verdana, sans-serif;
+  font-weight: light;
 }
 
 .nav a {
   color: black;
   text-align: center;
-  font: arial light;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
 }
 
 .nav a:visited {
   color: black;
   text-align: center;
-  font: arial light;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
 }
 
 .nav a:hover {
-  color: yellow;
+  color: #C9C9C9;
   text-align: center;
-  font: arial;
+  font-family: Verdana, sans-serif;
+  font-weight: bold;
 }
 
