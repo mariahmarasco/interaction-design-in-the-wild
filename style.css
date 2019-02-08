@@ -1,6 +1,12 @@
 h1 {
   color: #ff6347;
   text-align: center;
-  font: gotham;
+  font: arial semibold;
+}
+
+nav {
+  color: black;
+  text-align: center;
+  font: arial light;
 }
 
