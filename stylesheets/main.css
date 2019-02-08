@@ -5,13 +5,13 @@ h1 {
 }
 
 .nav a {
-  color: blue;
+  color: black;
   text-align: center;
   font: arial light;
 }
 
 .nav a:hover {
-  color: red;
+  color: light grey;
   text-align: center;
   font: arial;
 }
