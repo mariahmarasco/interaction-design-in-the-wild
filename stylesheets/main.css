@@ -1,5 +1,5 @@
 h1 {
-  padding-top: 50px;
+  padding-top: 70px;
   color: #ff6347;
   text-align: center;
   font-family: Verdana, sans-serif;
@@ -7,7 +7,8 @@ h1 {
 }
 
 .nav {
-   float: center; 
+   text-align: center;
+   word-spacing: 10px;
 }
 
 .nav a {
