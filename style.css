@@ -1,7 +1,7 @@
 h1 {
   color: #ff6347;
   text-align: center;
-  font: arial semibold;
+  font: arial;
 }
 
 .nav a {
@@ -13,6 +13,6 @@ h1 {
 .nav a:hover {
   color: red;
   text-align: center;
-  font: arial light;
+  font: arial;
 }
 
