@@ -5,6 +5,10 @@ h1 {
   font-weight: light;
 }
 
+.nav {
+   float: center; 
+}
+
 .nav a {
   color: black;
   text-align: center;
