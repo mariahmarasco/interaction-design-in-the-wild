@@ -10,6 +10,12 @@ h1 {
   font: arial light;
 }
 
+.nav a:visited {
+  color: black;
+  text-align: center;
+  font: arial light;
+}
+
 .nav a:hover {
   color: light grey;
   text-align: center;
