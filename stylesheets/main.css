@@ -184,3 +184,9 @@ img {
   padding: 10px;
   margin-left: 20%;
 }
+
+iframe {
+  width: 600px;
+  padding: 10px;
+  margin-left: 20%;
+}
