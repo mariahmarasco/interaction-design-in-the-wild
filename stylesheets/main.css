@@ -1,3 +1,7 @@
+.Header {
+ background-color: #272727;
+}
+
 h1 {
   padding-top: 70px;
   color: #FFB600;
@@ -10,7 +14,6 @@ h1 {
    text-align: center;
    padding: 20px;
    margin: 0 5px;
-   background-color: #272727;
 }
 
 .nav a {
