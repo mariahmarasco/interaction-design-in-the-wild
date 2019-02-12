@@ -18,6 +18,13 @@ h2 {
   font-weight: bold;
 }
 
+#container {
+    background-color: #fff;
+    width: 900px;
+    margin: 0 auto;
+    overflow: hidden;
+    }
+
 .nav {
    text-align: center;
    margin-bottom: 20px;
