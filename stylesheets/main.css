@@ -14,10 +14,11 @@ h1 {
    text-align: center;
    padding: 20px;
    margin: 0 5px;
+   margin-bottom: 20px;
 }
 
 .nav a {
-  color: black;
+  color: #CFDBD5;
   text-align: center;
   font-family: Helvetica, sans-serif;
   font-weight: light;
