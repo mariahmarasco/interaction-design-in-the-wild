@@ -16,11 +16,12 @@ h1 {
   text-align: center;
   font-family: Georgia, serif;
   font-weight: bold;
+  font-size: 26px;
 }
 
 #container {
     background-color: #fff;
-    width: 900px;
+    width: 1000px;
     margin: 0 auto;
     overflow: hidden;
     }
