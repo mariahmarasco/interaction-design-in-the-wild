@@ -20,15 +20,15 @@ h1 {
   color: #CFDBD5;
   text-align: center;
   font-family: Helvetica, sans-serif;
-  font-weight: light;
+  font-weight: 300;
   text-decoration: none;
 }
 
 .nav a:visited {
-  color: black;
+  color: #FFF;
   text-align: center;
   font-family: Helvetica, sans-serif;
-  font-weight: light;
+  font-weight: 400;
   text-decoration: none;
 }
 
@@ -36,7 +36,7 @@ h1 {
   color: #C9C9C9;
   text-align: center;
   font-family: Helvetica, sans-serif;
-  font-weight: light;
+  font-weight: 300;
   text-decoration: none;
 }
 
@@ -44,7 +44,7 @@ h1 {
   color: #FFF;
   text-align: center;
   font-family: Helvetica, sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   text-decoration: none;
 }
 
