@@ -12,7 +12,8 @@ h1 {
 
 .nav {
    text-align: center;
-   margin-bottom: 30px;
+   margin-bottom: 20px;
+   padding: 35px;
 }
 
 .nav a {
