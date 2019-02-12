@@ -45,14 +45,14 @@ h1 {
   color: black;
   text-align: center;
   font-family: Helvetica, sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   text-decoration: none;
 }
 
 #p1 {
  text-align: center;
  font-family: Helvetica, sans-serif;
- font-weight: light;
+ font-weight: 300;
  text-decoration: none;
  font-size: 26px;
 }
