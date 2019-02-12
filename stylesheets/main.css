@@ -141,6 +141,45 @@ h1 {
  padding-bottom: 15px;
 }
 
+#p9 {
+ text-align: center;
+ font-family: Helvetica, sans-serif;
+ font-weight: 700;
+ text-decoration: none;
+ font-size: 22px;
+}
+
+#p10 {
+ text-align: center;
+ font-family: Helvetica, sans-serif;
+ font-weight: 300;
+ text-decoration: none;
+ font-size: 16px;
+ margin: auto;
+ line-spacing: 20px;
+ padding-bottom: 15px;
+}
+
+#p11 {
+ text-align: center;
+ font-family: Helvetica, sans-serif;
+ font-weight: 700;
+ text-decoration: none;
+ font-size: 22px;
+}
+
+#p12 {
+ text-align: center;
+ font-family: Helvetica, sans-serif;
+ font-weight: 300;
+ text-decoration: none;
+ font-size: 16px;
+ margin: auto;
+ line-spacing: 20px;
+ padding-bottom: 15px;
+}
+
 img {
   width: 600px;
+  padding: 10px;
 }
