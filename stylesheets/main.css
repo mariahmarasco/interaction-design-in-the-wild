@@ -190,3 +190,11 @@ iframe {
   padding: 10px;
   margin-left: 20%;
 }
+
+#gallery {
+      /*flex makes sure that the images are not align at the bottom, try without flex*/
+     display: flex;
+     margin-left: 10%;
+     width:80%;
+     margin-top: 5vh;
+}
