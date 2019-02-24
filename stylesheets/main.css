@@ -1,5 +1,5 @@
 #Header {
- background-image: linear-gradient(to right, #DB324D , #992334);
+ background-image: linear-gradient(to right, #DB324D , #991529);
  padding: -5%;
 }
 
@@ -13,7 +13,7 @@ h1 {
 
 #p0 {
   padding-top: 50px;
-  color: #992334;
+  color: #991529;
   text-align: center;
   font-family: Georgia, serif;
   font-weight: bold;
@@ -92,6 +92,7 @@ h1 {
  margin: auto;
  line-spacing: 20px;
  padding-bottom: 15px;
+ color: #56494E;
 }
 
 #p3 {
@@ -112,6 +113,7 @@ h1 {
  margin: auto;
  line-spacing: 20px;
  padding-bottom: 15px;
+ color: #56494E;
 }
 
 #p5 {
@@ -132,6 +134,7 @@ h1 {
  margin: auto;
  line-spacing: 20px;
  padding-bottom: 15px;
+ color: #56494E;
 }
 
 #p7 {
@@ -140,6 +143,7 @@ h1 {
  font-weight: 700;
  text-decoration: none;
  font-size: 22px;
+ color: #A29C9B;
 }
 
 #p8 {
@@ -151,6 +155,7 @@ h1 {
  margin: auto;
  line-spacing: 20px;
  padding-bottom: 15px;
+ color: #56494E;
 }
 
 #p9 {
@@ -159,6 +164,7 @@ h1 {
  font-weight: 700;
  text-decoration: none;
  font-size: 22px;
+ color: #A29C9B;
 }
 
 #p10 {
@@ -170,6 +176,7 @@ h1 {
  margin: auto;
  line-spacing: 20px;
  padding-bottom: 15px;
+ color: #56494E;
 }
 
 #p11 {
@@ -178,6 +185,7 @@ h1 {
  font-weight: 700;
  text-decoration: none;
  font-size: 22px;
+ color: #A29C9B;
 }
 
 #p12 {
@@ -189,6 +197,7 @@ h1 {
  margin: auto;
  line-spacing: 20px;
  padding-bottom: 40px;
+ color: #56494E;
 }
 
 img {
