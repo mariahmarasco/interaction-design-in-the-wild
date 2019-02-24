@@ -18,7 +18,7 @@ h1 {
   padding-top: 50px;
   color: #991529;
   text-align: center;
-  font-weight: 500;
+  font-weight: 700;
   font-size: 28px;
   font-family: 'Rubik', sans-serif;
 }
@@ -65,7 +65,7 @@ h1 {
   color: #FFF;
   text-align: center;
   font-family: 'Rubik', sans-serif;
-  font-weight: 500;
+  font-weight: 700;
   text-decoration: none;
 }
 
@@ -96,7 +96,7 @@ h1 {
  margin: auto;
  line-spacing: 20px;
  padding-bottom: 15px;
- color: #56494E;
+ color: #A29C9B;
 }
 
 #p3 {
@@ -117,7 +117,7 @@ h1 {
  margin: auto;
  line-spacing: 20px;
  padding-bottom: 15px;
- color: #56494E;
+ color: #A29C9B;
 }
 
 #p5 {
@@ -138,7 +138,7 @@ h1 {
  margin: auto;
  line-spacing: 20px;
  padding-bottom: 15px;
- color: #56494E;
+ color: #A29C9B;
 }
 
 #p7 {
@@ -159,7 +159,7 @@ h1 {
  margin: auto;
  line-spacing: 20px;
  padding-bottom: 15px;
- color: #56494E;
+ color: #A29C9B;
 }
 
 #p9 {
@@ -180,7 +180,7 @@ h1 {
  margin: auto;
  line-spacing: 20px;
  padding-bottom: 15px;
- color: #56494E;
+ color: #A29C9B;
 }
 
 #p11 {
@@ -201,7 +201,7 @@ h1 {
  margin: auto;
  line-spacing: 20px;
  padding-bottom: 40px;
- color: #56494E;
+ color: #A29C9B;
 }
 
 img {
