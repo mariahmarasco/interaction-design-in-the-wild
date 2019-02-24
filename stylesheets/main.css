@@ -10,16 +10,17 @@ h1 {
   color: #511C29;
   text-align: center;
   font-family: 'Rubik', sans-serif;
-  font-weight: bold;
+  font-weight: 700;
+  font-size: 42px;
 }
 
 #p0 {
   padding-top: 50px;
   color: #991529;
   text-align: center;
-  font-family: 'Rajdhani', sans-serif;
-  font-weight: bold;
+  font-weight: 500;
   font-size: 28px;
+  font-family: 'Rubik', sans-serif;
 }
 
 #container {
@@ -39,7 +40,7 @@ h1 {
 .nav a {
   color: #CFDBD5;
   text-align: center;
-  font-family: Helvetica, sans-serif;
+  font-family: 'Rubik', sans-serif;
   font-weight: 300;
   text-decoration: none;
 }
@@ -47,7 +48,7 @@ h1 {
 .nav a:active {
   color: #6290C8;
   text-align: center;
-  font-family: Helvetica, sans-serif;
+  font-family: 'Rubik', sans-serif;
   font-weight: 300;
   text-decoration: none;
 }
@@ -55,31 +56,31 @@ h1 {
 .nav a:visited {
   color: #CFDBD5;
   text-align: center;
-  font-family: Helvetica, sans-serif;
-  font-weight: 600;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
   text-decoration: none;
 }
 
 .nav a:hover {
-  color: #C9C9C9;
+  color: #FFF;
   text-align: center;
-  font-family: Helvetica, sans-serif;
-  font-weight: 300;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
   text-decoration: none;
 }
 
 #week3 a:visited {
   color: #CFDBD5;
   text-align: center;
-  font-family: Helvetica, sans-serif;
-  font-weight: 600;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
   text-decoration: none;
 }
 
 #p1 {
  text-align: center;
- font-family: Helvetica, sans-serif;
- font-weight: 700;
+ font-family: 'Rubik', sans-serif;
+ font-weight: 500;
  text-decoration: none;
  font-size: 22px;
  padding-top: 30px;
@@ -88,7 +89,7 @@ h1 {
 
 #p2 {
  text-align: center;
- font-family: Helvetica, sans-serif;
+ font-family: 'Rubik', sans-serif;
  font-weight: 300;
  text-decoration: none;
  font-size: 16px;
@@ -100,8 +101,8 @@ h1 {
 
 #p3 {
  text-align: center;
- font-family: Helvetica, sans-serif;
- font-weight: 700;
+ font-family: 'Rubik', sans-serif;
+ font-weight: 500;
  text-decoration: none;
  font-size: 22px;
  color: #511C29;
@@ -109,7 +110,7 @@ h1 {
 
 #p4 {
  text-align: center;
- font-family: Helvetica, sans-serif;
+ font-family: 'Rubik', sans-serif;
  font-weight: 300;
  text-decoration: none;
  font-size: 16px;
@@ -121,8 +122,8 @@ h1 {
 
 #p5 {
  text-align: center;
- font-family: Helvetica, sans-serif;
- font-weight: 700;
+ font-family: 'Rubik', sans-serif;
+ font-weight: 500;
  text-decoration: none;
  font-size: 22px;
  color: #511C29;
@@ -130,7 +131,7 @@ h1 {
 
 #p6 {
  text-align: center;
- font-family: Helvetica, sans-serif;
+ font-family: 'Rubik', sans-serif;
  font-weight: 300;
  text-decoration: none;
  font-size: 16px;
@@ -142,8 +143,8 @@ h1 {
 
 #p7 {
  text-align: center;
- font-family: Helvetica, sans-serif;
- font-weight: 700;
+ font-family: 'Rubik', sans-serif;
+ font-weight: 500;
  text-decoration: none;
  font-size: 22px;
  color: #511C29;
@@ -151,7 +152,7 @@ h1 {
 
 #p8 {
  text-align: center;
- font-family: Helvetica, sans-serif;
+ font-family: 'Rubik', sans-serif;
  font-weight: 300;
  text-decoration: none;
  font-size: 16px;
@@ -163,8 +164,8 @@ h1 {
 
 #p9 {
  text-align: center;
- font-family: Helvetica, sans-serif;
- font-weight: 700;
+ font-family: 'Rubik', sans-serif;
+ font-weight: 500;
  text-decoration: none;
  font-size: 22px;
  color: #511C29;
@@ -172,7 +173,7 @@ h1 {
 
 #p10 {
  text-align: center;
- font-family: Helvetica, sans-serif;
+ font-family: 'Rubik', sans-serif;
  font-weight: 300;
  text-decoration: none;
  font-size: 16px;
@@ -184,8 +185,8 @@ h1 {
 
 #p11 {
  text-align: center;
- font-family: Helvetica, sans-serif;
- font-weight: 700;
+ font-family: 'Rubik', sans-serif;
+ font-weight: 500;
  text-decoration: none;
  font-size: 22px;
  color: #511C29;
@@ -193,7 +194,7 @@ h1 {
 
 #p12 {
  text-align: center;
- font-family: Helvetica, sans-serif;
+ font-family: 'Rubik', sans-serif;
  font-weight: 300;
  text-decoration: none;
  font-size: 16px;
