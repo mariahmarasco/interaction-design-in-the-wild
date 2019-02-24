@@ -211,9 +211,10 @@ h1 {
 }
 
 img {
-  width: 600px;
-  padding: 10px;
-  margin-left: 20%;
+ width: 600px;
+ padding-top: 22px;
+ margin-left: 20%;
+ border-bottom: 10px solid #DB324D;
 }
 
 iframe {
