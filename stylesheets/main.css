@@ -1,6 +1,8 @@
 #Header {
  background-image: linear-gradient(to right, #DB324D , #991529);
- padding: none;
+ margin: -8px;
+ margin-top: -22px;
+ height: 250px;
 }
 
 h1 {
@@ -25,6 +27,7 @@ h1 {
     width: 1000px;
     margin: 0 auto;
     overflow: hidden;
+    margin-top: 10px;
     }
 
 .nav {
