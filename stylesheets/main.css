@@ -31,6 +31,15 @@ h1 {
     margin-top: 10px;
     }
 
+.dropbtn {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
 .nav {
    text-align: center;
    margin-bottom: 20px;
