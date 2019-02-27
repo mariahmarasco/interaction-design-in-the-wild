@@ -210,6 +210,29 @@ h1 {
  line-height: 22px;
 }
 
+#p13 {
+ text-align: center;
+ font-family: 'Rubik', sans-serif;
+ font-weight: 700;
+ text-decoration: none;
+ font-size: 22px;
+ color: #511C29;
+}
+
+
+#p14 {
+ text-align: center;
+ font-family: 'Rubik', sans-serif;
+ font-weight: 300;
+ text-decoration: none;
+ font-size: 16px;
+ margin: auto;
+ line-spacing: 20px;
+ padding-bottom: 40px;
+ color: #A29C9B;
+ line-height: 22px;
+}
+
 img {
  width: 600px;
  padding-top: 22px;
