@@ -33,11 +33,11 @@ h1 {
 
 .dropbtn {
   background-color: #DB324D;
-  color: #511C29;
+  color: #FFF;
   padding: 16px;
   font-size: 16px;
   font-family: 'Rubik', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   border: none;
   cursor: pointer;
   text-align: center;
@@ -48,7 +48,7 @@ h1 {
  position: relative;
  display: inline-block;
  text-align: left;
- margin-left: 39%;
+ margin-left: 43%;
 }
 
 .dropbtn:hover, .dropbtn:focus {
@@ -65,7 +65,10 @@ h1 {
 }
 
 .dropdown-content a {
-  color: white;
+  color: #DB324D;
+  font-family: 'Rubik', sans-serif;
+  font-size: 15px;
+  text-align: center;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
