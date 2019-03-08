@@ -1,0 +1,53 @@
+<head>
+<link type="text/css" rel="stylesheet" href="stylesheets/main.css" />
+<!-- <link href="https://fonts.googleapis.com/css?family=Rajdhani|Rubik" rel="stylesheet"> -->
+</head>
+ 
+<div id="Header">
+<h1>WEEK 7: Midterm Concept</h1>
+ 
+  <div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Projects</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="https://mariahmarasco.github.io/design-in-safaris/week1.html">Anthropomorphism</a>
+    <a href="https://mariahmarasco.github.io/design-in-safaris/week2.html">Ethograms</a>
+    <a href="https://mariahmarasco.github.io/design-in-safaris/week3.html">Empathy</a>
+    <a href="https://mariahmarasco.github.io/design-in-safaris/week4.html">Enrichment I</a>
+    <a href="https://mariahmarasco.github.io/design-in-safaris/week5.html">Enrichment II</a>
+    <a href="https://mariahmarasco.github.io/design-in-safaris/week6-zoo.html">Zoo Visit</a>
+    <a href="https://mariahmarasco.github.io/design-in-safaris/week6-store.html">Pet Store Research</a>
+    <a href="https://mariahmarasco.github.io/design-in-safaris/week7.html">Midterm Concept</a>
+  </div>
+  </div>
+ 
+</div>
+</div>
+                     
+<div id="container">
+  
+  <p id="p0"> 
+  DOG & CO. (COLUMBUS CIRCLE)
+  </p>
+ 
+  <p id="p1"> 
+  FINDINGS
+  </p>
+ 
+  <p id="p2"> 
+  We visited a boutique pet store that was mainly for dog needs. The store contained relatively high-end dog clothing as well as many different toys and some bedding and housing environments (including teepees). We chatted with the store owners and found out the following interesting information. 
+  <br>
+  <br>The store owner said she would be interested in working with design students (perhaps via an internship) to design better products for their store. She feels that many of the partners they work with lack animal-specific training when it comes to designing clothing and toys and take a more anthropomorphic approach when creating products. She cited that some big (human) clothing stores will fail to realize that, for example, arm holes for a dog T-shirt should be on the front not on the side like a human T-shirt. Also, some human-trained designers will design something just because it is "cute" and not with the functionality and enjoyment of the animal of primary importance. For example, we noticed that there was a MTA Metro Card shaped dog toy. Dogs don't know what that is, only humans do. So in that case it doesn't really make sense to design the toy in this fashion.
+  <br>
+  <br>In terms of materials, she said their wool toys are good for smaller dogs as it's really good for cleaning and strengthening their teeth and can keep them busy for hours. However, this material is not suited for larger more powerful dogs. She also noted that puzzles are great for dogs on days when they have to remain inside as a way to stimulate their mind.  
+  </p>
+   
+  <img src="IMG_0681.jpg" width="800">
+  <img src="IMG_0682.jpg" width="800">
+  <img src="IMG_5566.JPG" width="800">
+ 
+  <iframe src="https://player.vimeo.com/video/321627017" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/321626973" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  
+ <script type="text/javascript" src="script.js"></script>
+ 
+</div>
