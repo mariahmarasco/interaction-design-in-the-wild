@@ -1,5 +1,5 @@
 #Header {
- background-image: linear-gradient(to right, #DB324D , #991529);
+ background-image: linear-gradient(to right, #028093 , #044954);
  margin: -8px;
  margin-top: -22px;
  height: 250px;
@@ -7,7 +7,7 @@
 
 h1 {
   padding-top: 70px;
-  color: #511C29;
+  color: #white;
   text-align: center;
   font-family: 'Rubik', sans-serif;
   font-weight: 700;
@@ -16,7 +16,7 @@ h1 {
 
 #p0 {
   padding-top: 50px;
-  color: #991529;
+  color: #EDBD2D;
   text-align: center;
   font-weight: 700;
   font-size: 28px;
@@ -32,7 +32,7 @@ h1 {
     }
 
 .dropbtn {
-  background-color: #DB324D;
+  background-color: #EDBD2D;
   color: #FFF;
   padding: 16px;
   font-size: 16px;
@@ -52,7 +52,7 @@ h1 {
 }
 
 .dropbtn:hover, .dropbtn:focus {
-  background-color: #DB324D;
+  background-color: #EDC54E;
 }
 
 .dropdown-content {
