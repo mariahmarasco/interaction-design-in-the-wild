@@ -1,7 +1,7 @@
-# design-in-safaris
-GitHub link for Design In Safaris Collab at Parsons (The New School)
+# interaction-design-in-the-wild
+GitHub link for Interaction Design in the Wild Collab at Parsons (The New School)
 
-# design-in-safaris" >> README.md
+# interaction-design-in-the-wild >> README.md
 git init
 git add README.md
 git commit -m "first commit"
