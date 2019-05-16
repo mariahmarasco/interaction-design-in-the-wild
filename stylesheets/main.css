@@ -14,6 +14,13 @@ h1 {
   font-size: 42px;
 }
 
+#homebutton {
+ float: left;
+ color: white;
+ font-family: 'Rubik Light', sans-serif;
+ font-size: 28px;
+}
+
 #p0 {
   padding-top: 50px;
   color: #044751;
