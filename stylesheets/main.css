@@ -297,6 +297,13 @@ img {
  border-bottom: 10px solid #EDBD2D;
 }
 
+#img2 {
+ width: 50px;
+ padding-top: 22px;
+ margin-left: 17%;
+ border-bottom: 10px solid #EDBD2D;
+}
+
 iframe {
   width: 600px;
   padding: 10px;
