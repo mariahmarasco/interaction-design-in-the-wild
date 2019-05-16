@@ -313,6 +313,14 @@ img {
  border-bottom: 10px solid #EDBD2D;
 }
 
+#img2:hover {
+ width: 200px;
+ padding-top: 22px;
+ margin-left: 8%;
+ border-bottom: 10px solid #EDBD2D;
+ overlay: white 30%;
+}
+
 iframe {
   width: 600px;
   padding: 10px;
