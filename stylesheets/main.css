@@ -314,9 +314,9 @@ img {
 }
 
 #img2:hover {
- width: 200px;
+ width: 28%;
  padding-top: 22px;
- margin-left: 8%;
+ margin-left: 3.5%;
  border-bottom: 10px solid #EDBD2D;
  opacity: 0.7;
 }
