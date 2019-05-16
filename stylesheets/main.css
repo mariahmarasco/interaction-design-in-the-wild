@@ -21,6 +21,7 @@ h1:visited {
   font-family: 'Rubik', sans-serif;
   font-weight: 700;
   font-size: 42px;
+  text-decoration: none;
 }
 
 h1:active {
