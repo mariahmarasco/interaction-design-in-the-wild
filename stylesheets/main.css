@@ -313,7 +313,7 @@ img {
  border-bottom: 10px solid #EDBD2D;
 }
 
-#img2:hover {
+#img2 a:hover {
  width: 200px;
  padding-top: 22px;
  margin-left: 8%;
