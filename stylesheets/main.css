@@ -136,6 +136,19 @@ h1 {
   text-decoration: none;
 }
 
+#pcenter {
+ text-align: center;
+ font-family: 'Rubik Light', sans-serif;
+ font-weight: 300;
+ text-decoration: none;
+ font-size: 16px;
+ margin: auto;
+ line-spacing: 20px;
+ padding-bottom: 15px;
+ color: #666;
+ line-height: 22px;
+}
+
 #p1 {
  text-align: center;
  font-family: 'Rubik', sans-serif;
