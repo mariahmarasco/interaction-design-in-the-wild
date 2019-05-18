@@ -5,6 +5,26 @@
  height: 250px;
 }
 
+a:link {
+ color: #666;
+ text-decoration: none;
+}
+
+a:visited {
+ color: #666;
+ text-decoration: none;
+}
+
+a:hover {
+ color: #028093;
+ text-decoration: none;
+}
+
+a:active {
+ color: #028093;
+ text-decoration: none;
+}
+
 h1 {
   padding-top: 70px;
   color: white;
